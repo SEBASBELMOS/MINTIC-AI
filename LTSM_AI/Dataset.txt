@@ -1,0 +1,6 @@
+Al ser un dataset muy pesado, no logré subirlo al GitHub pero puedes descargarlo desde este link:
+
+https://www.kaggle.com/datasets/mczielinski/bitcoin-historical-data
+
+
+Descargas el archivo y lo extraes para su posterior uso
